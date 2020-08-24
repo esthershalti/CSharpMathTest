@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\BL.dll.config
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\BL.dll
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\BL.pdb
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\obj\Debug\BL.dll
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\obj\Debug\BL.pdb
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\math.mdf
+C:\Users\win10\Desktop\לימודים\C#\מבחן בחשבון\WindowsFormsApp1\BL\bin\Debug\math_log.ldf
